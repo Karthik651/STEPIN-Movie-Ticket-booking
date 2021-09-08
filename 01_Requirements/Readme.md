@@ -6,11 +6,11 @@ This project is the implementation for "Movie Ticket Booking” is a program dev
 
 About Movie Ticket booking C Project:
 
----Add new movie : In this feature, admin can add a Movie
+---Add new movie : In this feature, admin can add a Movie.
 ---View all movies.
 ---Book movie tickets.
----View all Transactions'
----Exit from the system
+---View all Transactions.
+---Exit from the system.
  
 ## Cost and Features and Timeline
 
@@ -76,6 +76,5 @@ movie ticket booking helps the people to book the movie tickets
  
  | **<h3> ID** | **<h3>Description**                                              | <h3>Status      |    
 |-------------|--------------------------------------------------------------|------------- |
-
 | platform     |The system can be work on any operating system like windows or linus| Implemented    |
 |  Performanace       |The system should handles the large amount patients data| Implemented    |
