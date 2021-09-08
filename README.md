@@ -1,6 +1,8 @@
 # STEPIN-Movie-Ticket-booking
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/f98ca8f5abcb47bd82b5cfbad277a1fa)](https://www.codacy.com/gh/Karthik651/STEPIN-Movie-Ticket-booking/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Karthik651/STEPIN-Movie-Ticket-booking&amp;utm_campaign=Badge_Grade)
 
+This project is the implementation for "Movie Ticket Booking” is a program developed for booking tickets inserting the movie and viewing the transactions. The program is very helpful to book the tickets easly . The project and implementation is developed by using c
+
 
 
 
