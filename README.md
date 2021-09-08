@@ -17,6 +17,9 @@ This project is the implementation for "Movie Ticket Booking” is a program dev
 
 ![gitinspector ](https://www.code-inspector.com/project/27425/status/svg)
 
+## Badges
+[![Git Inspector](https://github.com/Karthik651/STEPIN-Movie-Ticket-booking/actions/workflows/getinsceptor.yml/badge.svg)](https://github.com/Karthik651/STEPIN-Movie-Ticket-booking/actions/workflows/getinsceptor.yml)
+
 
 
   ## Folder Structure
