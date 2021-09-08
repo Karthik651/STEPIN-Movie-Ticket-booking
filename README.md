@@ -16,7 +16,7 @@
 ## Low Level Test Plan 
 
 | Test ID | Function name | Description | Type of Test | Status (PASS/FAIL) |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- |  --- |
 | TL_01 | Insert movie | checks if the given name, movie code ,Release date ,Ticket price , value are valid or not | unit test | PASS |
 | TL_02 | View All Movies | checks if the given movie name ,movie code ,Release date ,Ticket price  valid or not  | unit test | PASS |
 | TL_03 | Book Tickets | checks if the given movie code, details like name, number and number tickets,total seats , cost per head is valid or not | boolean | unit test | PASS |
